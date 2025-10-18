@@ -18,11 +18,11 @@
     {
       "atomType": "Import",
       "name": "Import",
-      "x": 0.09453125,
-      "y": 0.648910411622276,
-      "uniqueID": "cbfea876-56f5-46b7-8385-25b97f77e6ae",
+      "x": 0.08828125,
+      "y": 0.6973365617433415,
+      "uniqueID": "da066527-d4ba-4240-81b1-826f189a54b6",
       "ioValues": [],
-      "fileName": "short crate side.stl",
+      "fileName": "short crate side_copy1.stl",
       "type": "STL",
       "repoOwner": "2muchTA",
       "repoName": "Crate"
