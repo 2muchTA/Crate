@@ -1,15 +1,36 @@
 {
-    "atomType": "Molecule",
-    "name": "Crate",
-    "x": 0,
-    "y": 0,
-    "uniqueID": "9db097b8-f965-443e-b68b-c6c98808aca2",
-    "ioValues": [],
-    "topLevel": true,
-    "allAtoms": [],
-    "allConnectors": [],
-    "unitsKey": "MM",
-    "fileTypeVersion": 1,
-    "compiledBom": {},
-    "filetypeVersion": 1
+  "atomType": "Molecule",
+  "name": "Crate",
+  "x": 0,
+  "y": 0,
+  "uniqueID": "9db097b8-f965-443e-b68b-c6c98808aca2",
+  "ioValues": [],
+  "topLevel": true,
+  "allAtoms": [
+    {
+      "atomType": "Output",
+      "name": "Output",
+      "x": 0.98,
+      "y": 0.5,
+      "uniqueID": "d632ac46-0c7b-4427-af91-f57cfa63e8d1",
+      "ioValues": []
+    },
+    {
+      "atomType": "Import",
+      "name": "Import",
+      "x": 0.09453125,
+      "y": 0.648910411622276,
+      "uniqueID": "cbfea876-56f5-46b7-8385-25b97f77e6ae",
+      "ioValues": [],
+      "fileName": "short crate side.stl",
+      "type": "STL",
+      "repoOwner": "2muchTA",
+      "repoName": "Crate"
+    }
+  ],
+  "allConnectors": [],
+  "unitsKey": "MM",
+  "fileTypeVersion": 1,
+  "compiledBom": {},
+  "filetypeVersion": 1
 }
