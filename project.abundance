@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "Crate",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "9db097b8-f965-443e-b68b-c6c98808aca2",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
